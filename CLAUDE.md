@@ -20,3 +20,4 @@
 
 ## Laufende Audits
 - `ai-visibility-audit-prohibited-shop.md`: Prohibited (prohibited.shop). Die Baseline vom 07.10.2026 ist ein Proxy, die Browser-Messung steht noch aus. Das Prompt-Panel steht in Abschnitt 5.
+- `ai-visibility-audit-1komma5grad.md`: 1KOMMA5° (1komma5.com). Die Baseline vom 12.10.2026 nutzt echte Antworten aus Google AI Overviews und AI Mode via Ahrefs Brand Radar. ChatGPT, Gemini und Perplexity sind ein Proxy aus Ahrefs-Zitatzählungen und Websuche, die Browser-Messung steht noch aus. Das Prompt-Panel steht in Abschnitt 6, die Rohdaten liegen in `audits/1komma5grad/2026-10-12/`.
